@@ -20,7 +20,7 @@ Let's scroll up to the [Data_RNA-Seq_DE-Output folder](https://github.com/sabahz
 *[Gulati and Nobile 2016, Microbes and Infection](https://www.sciencedirect.com/science/article/pii/S1286457916000095)*
 
 
-### Time Point 2 (10 min): Basics, creating a bar chart and changing color schemes
+### Time Point 2 (10 min): Basics, creating a bar chart and adjusting visuals
 For this section, were' going to switch over to code. Scary! 😱 </br>
 
 Checkpoint C: Why is it more advantageous to utilize code for our analysis over Excel? </br>
@@ -28,6 +28,13 @@ Checkpoint C: Why is it more advantageous to utilize code for our analysis over 
 Right now we're only working with two replicates, but imagine working with 40 or 100. How much time do you estimate it would take to walk through each of those in an Excel sheet versus running a chunk of code? Let's just say "A *lot* less time"! We can think of using code analagous to using a calculator, saving us time and energy we can then re-direct elsewhere. In a longer session, we would walk through the installation process of the platforms behind this code (Github, which you are looking at now, Jupyter and R). In the interest of time, we will be working from a previously made bioinformatics version of a 'lab notebook' found [here](https://github.com/sabahzero/Lesson-Plan_RNA-Seq/blob/master/RNA-Seq_Lesson-Plan_R.ipynb). 
 
 ### Time Point 3 (5 min): Interpreting the analysis of results, visualization vs statistics
+
+Checkpoint D: Identify and explain what aspects of the worflow are still in need of improvement.  </br>
+
+a. How do we know our results are statistically significant? </br>
+b. Are there better ways to label or analyze our data? </br>
+c. With the code as an example, what are the differences between data visualization and statistical analysis? </br>
+d. Why may it be advantageous to include code in a paper? </br>
 
 ### Time Point 4 (10 min): Discussion, Q&A 
 
