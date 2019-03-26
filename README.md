@@ -4,7 +4,7 @@
 Time Point 1 (5 min) - Identify the data, how was it produced? </br>
 Time Point 2 (10 min) - Walk through the data through visualization and analysis </br>
 Time Point 3 (5 min) - Interpretations of results </br>
-Time Point 4 (10 min) - Additional ways of analysis, and general Q&A </br>
+Time Point 4 (10 min) - Additional ways of analysis, and general Q & A </br>
 
 ### Time Point 1 (5 min): Introduction, understanding RNA-Seq
 Checkpoint A: What is RNA-Seq, and why use it? </br> 
@@ -21,7 +21,7 @@ Let's scroll up to the [Data_RNA-Seq_DE-Output folder](https://github.com/sabahz
 
 
 ### Time Point 2 (10 min): Basics, creating a bar chart and adjusting visuals
-For this section, were' going to switch over to code. Scary! 😱 </br>
+For this section, we're going to switch over to code. Scary! 😱 </br>
 
 Checkpoint C: Why is it more advantageous to utilize code for our analysis over Excel? </br>
 
